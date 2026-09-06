@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compare Options"
+  short_description: "制約・根拠・不確実性から選択肢を比較する意思決定支援"
+  default_prompt: "$compare-options を使って選択肢を比較し、根拠・不確実性・逆転条件を示したうえで推奨して。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docs That Work"
+  short_description: "Write human-first docs with only what readers need"
+  default_prompt: "Use $docs-that-work to create or revise a human-first document that gives readers a shared mental model with only the information they need."

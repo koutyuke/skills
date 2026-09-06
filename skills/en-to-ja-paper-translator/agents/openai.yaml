@@ -1,0 +1,7 @@
+interface:
+  display_name: "EN to JA Paper Translator"
+  short_description: "Translate English paper PDFs into Japanese Typst/PDF"
+  default_prompt: "Use $en-to-ja-paper-translator to translate an English paper PDF into a Japanese Typst/PDF artifact."
+
+policy:
+  allow_implicit_invocation: true

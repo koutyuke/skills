@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teacher Prompt"
+  short_description: "特定の技術を初学者へ丁寧に教えるメンター用プロンプトを作る"
+  default_prompt: "$teacher-prompt を使って、指定した技術の「超絶丁寧に教えてくれる君.md」を作って。"
