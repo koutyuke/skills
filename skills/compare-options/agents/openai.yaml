@@ -1,4 +1,0 @@
-interface:
-  display_name: "Compare Options"
-  short_description: "Compare options with star ratings and clear tradeoffs"
-  default_prompt: "Use $compare-options to compare the options with star ratings and reasons, explain key tradeoffs, and recommend a choice with the conditions that would change it."

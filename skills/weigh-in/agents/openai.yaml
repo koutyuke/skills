@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weigh In"
+  short_description: "Weigh options, explain tradeoffs, and recommend a choice"
+  default_prompt: "Use $weigh-in to compare these options, explain the tradeoffs, and recommend what to choose and when that choice should change."
