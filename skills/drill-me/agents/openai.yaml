@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drill Me"
+  short_description: "Stress-test plans through focused questions"
+  default_prompt: "Use $drill-me to question this plan, then summarize the decisions, assumptions, open issues, and risks."
