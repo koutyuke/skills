@@ -1,4 +1,4 @@
 interface:
   display_name: "Docs That Work"
-  short_description: "Write focused docs that help readers understand and act"
-  default_prompt: "Use $docs-that-work to create or revise a document that gives future readers a shared understanding and the information they need to decide and act."
+  short_description: "Write docs that every reader understands the same way"
+  default_prompt: "Use $docs-that-work to write or revise this document so that first-time readers grasp the whole picture quickly and act without misunderstanding."
