@@ -1,0 +1,4 @@
+interface:
+  display_name: "Twintail"
+  short_description: "Find the smallest sufficient code change"
+  default_prompt: "Use $twintail to find the smallest maintainable solution that meets the requirements for this coding task."
