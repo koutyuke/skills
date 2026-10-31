@@ -1,0 +1,4 @@
+interface:
+  display_name: "Your Code Is So Fat"
+  short_description: "Choose simple, maintainable solutions without sacrificing safety"
+  default_prompt: "Use $your-code-is-so-fat to choose a minimal, maintainable solution that preserves requirements and safety."
