@@ -1,0 +1,4 @@
+interface:
+  display_name: "I Can't Decide"
+  short_description: "Compare options, add better ones, and recommend one with 1-5 stars"
+  default_prompt: "Use $i-cant-decide to compare these options, suggest better alternatives, rate each with 1-5 stars, and recommend one."

@@ -1,4 +1,0 @@
-interface:
-  display_name: "Which Is Better"
-  short_description: "Weigh options, explain tradeoffs, and recommend a choice"
-  default_prompt: "Use $which-is-better to compare these options, explain the tradeoffs, and recommend what to choose and when that choice should change."
